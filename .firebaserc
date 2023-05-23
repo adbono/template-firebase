@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "template-firebase": {
+      "hosting": {
+        "template-firebase": [
+          "template-firebase"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "template-firebase"
+  }
+}
